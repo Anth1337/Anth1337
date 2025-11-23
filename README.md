@@ -6,13 +6,13 @@ I'm a **Computer Science student at the University of Western Ontario**. I love 
 - 📈 **Machine Learning & Predictive Modeling**
 - 📊 **Statistical Analysis & Data Science**
 
-I enjoy creating projects that blend **software engineering**, **AI**, and **data-driven problem solving**. I’m constantly pushing myself to learn new concepts, improve my engineering skills, and collaborate on meaningful projects.
+I enjoy creating projects that blend **software engineering**, **AI**, and **data-driven problem solving**. I strive to learn new concepts, improve my engineering skills, and collaborate on impactful projects.
 
 ## 🌱 Currently Learning
 
-- 🎨 **Figma** – UI/UX design  
-- ☁️ **AWS** – cloud computing, automation, deployment  
-- 👁️ **Computer Vision** – image models & ML pipelines
+- 🎨 **Figma** 
+- ☁️ **AWS** 
+- 👁️ **Computer Vision** 
 
 ---
 
