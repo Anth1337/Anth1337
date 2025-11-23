@@ -22,8 +22,8 @@ Outside of coding, connect with me about:
 
 - 🔥 **Weightlifting & Running**
 - 🎮 **Competitive Gaming / Esports**
-- ⚾ **Blue Jays 🔛🔝**
-- 🎧 **Listening to Indie Rock & Grunge**
+- ⚾ **Toronto Blue Jays 🔛🔝**
+- 🎧 **Indie Rock & Grunge**
 - 🍳 **Cooking Up New Dishes**
 - 📊 **Investing**
 
