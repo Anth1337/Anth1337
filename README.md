@@ -10,7 +10,7 @@ I enjoy creating projects that blend **software engineering**, **AI**, and **dat
 
 ## 🌱 Currently Learning
 
-- 🎨 **Figma** 
+- 🎨 **Figma // Design** 
 - 👁️ **Computer Vision** 
 
 ---
