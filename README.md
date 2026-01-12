@@ -1,4 +1,4 @@
-# 👋 Hey!
+# 👋
 
 I'm a **Computer Science student at the University of Western Ontario**. I love building intelligent systems and experimenting with new technology. My work mainly focuses on:
 
