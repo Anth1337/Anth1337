@@ -8,11 +8,6 @@ I'm a **Computer Science student at the University of Western Ontario**. I love 
 
 I enjoy creating projects that blend **software engineering**, **AI**, and **data-driven problem solving**. I strive to learn new concepts, improve my engineering skills, and collaborate on impactful projects.
 
-## 🌱 Currently Learning
-
-- 🎨 **Figma // Design** 
-- 👁️ **Computer Vision** 
-
 ---
 
 ## 🏂 Non-Technical Hobbies
