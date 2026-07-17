@@ -14,13 +14,11 @@ I enjoy creating projects that blend **software engineering**, **AI**, and **dat
 
 Outside of coding, connect with me about:
 
-- 🔥 **Weightlifting & Running**
-- 🎮 **Competitive Gaming / Esports**
+- 🔥 **Fitness or ANY sport**
 - ⚾ **Toronto Blue Jays 🔛🔝**
 - 🎧 **Indie Rock & Grunge**
-- 🍳 **Cooking Up New Dishes**
+- 🍳 **Cooking**
 - 📊 **Investing**
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anthbuilds) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anthstefanuto@gmail.com) 
